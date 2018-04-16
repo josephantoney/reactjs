@@ -1,0 +1,22 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "sample starter application",
+  "main": "index.js",
+  "author": "Joseph",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.0"
+  },
+  "devDependencies": {
+    "fuse-box": "^3.2.0",
+    "less": "^3.0.1",
+    "typescript": "^2.8.1",
+    "uglify-js": "^3.3.21"
+  }
+}
